@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Alejandro Fernández Andreo
 
-<!--
-**afernandezandreo/afernandezandreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business Administration student at Universidad Autónoma de Madrid (UAM), specialising in Data Analytics for Business. Based in Madrid.
 
-Here are some ideas to get you started:
+I'm interested in entrepreneurship, finance and data, and I use GitHub to document my projects as I learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently**
+* Campus Ambassador at Madrid Banking and Finance Society (MBFS)
+* Student Council Spokesperson and class representative for 1st year BBA at UAM
+* Creating content to help students through the IB Diploma
+
+**Background**
+* IB Diploma + Spanish Bachillerato. Extended Essay on Too Good To Go's European growth and circular economy model
+* Founded several small ventures: DJ ALEO (music), Kaos (clothing brand), an Amazon seller store and private tutoring
+
+**Find me**
+[Website](https://afernandezandreo.com) · [LinkedIn](https://www.linkedin.com/in/afernandezandreo) · contact@afernandezandreo.com
