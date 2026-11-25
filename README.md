@@ -8,6 +8,9 @@ BBA student at Universidad Autónoma de Madrid (UAM), Data Analytics for Busines
 * Running an IB education project: videos, guides and 1:1 classes for IB Diploma students ([YouTube](https://www.youtube.com/@afernandezandreo))
 * Member of UAM Finance Society, Finance Generation, Inside Capital, Finance Association UC3M and START UC3M
 
+**Projects**
+* [Too Good To Go: a marketplace that gets paid before it pays](https://github.com/afernandezandreo/too-good-to-go-analysis). Financial analysis of the 2025 annual report in Python: margins, working capital and unit economics
+
 **Background**
 * IB Diploma + Spanish Bachillerato. Full marks in the Business Management IA (25/25) and the Language A oral (40/40)
 * Extended Essay: Too Good To Go's European growth and circular economy model (2018 to 2024)
